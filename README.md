@@ -1,4 +1,4 @@
 # personal-site-1
-please check out the master branch,
-practice creating a simple personal site
+Please check out the master branch.
+This is a practice following a Udemy course.
 
